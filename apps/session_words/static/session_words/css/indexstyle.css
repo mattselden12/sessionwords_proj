@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline: 2px dotted red; */
+}
+#leftside{
+    vertical-align: top;
+    margin: 2% 0% 2% 2%;
+    border-right: 5px solid black;
+    display:inline-block;
+    width:47%;
+    padding: 5%;
+}
+#rightside{
+    vertical-align: top;
+    margin: 2% 0% 2% 0%;
+    display: inline-block;
+    width:47%;
+    padding:5%;
+}
+.mleft{
+    margin-left:15%;
+    width:80%;
+}
+.mtop{
+    margin-top:5%;
+}
+.btn-danger{
+    width: 150px;
+    margin-left: 50%;
+    margin-bottom:30px;
+    display: block;
+}
