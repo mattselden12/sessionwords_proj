@@ -5,3 +5,6 @@ def index(request):
         
     }
     return render(request, 'session_words/index.html', context)
+
+def clear(request):
+    pass
